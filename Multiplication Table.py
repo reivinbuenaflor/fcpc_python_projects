@@ -3,7 +3,7 @@
     #for y in range(1 , 11):
         #z = x*y
 
-        #if z % 3 == 1:
+        #if z % 2 == 1:
             #print("O", end = "\t")
         #else:
             #print(z, end = "\t")
